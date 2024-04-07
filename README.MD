@@ -1,4 +1,4 @@
-# Pass.in: Ferramenta de Gerenciamento de Participantes de Eventos
+# Nlw Unite: Pass.in
 Desenvolvida durante a Nlw Unite da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> a pass.in é uma ferramenta de gerenciamento de participantes de eventos.
 
 ## Funcionalidades
